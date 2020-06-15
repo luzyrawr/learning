@@ -7,4 +7,7 @@ Mis notas no incluyen ejemplos, pues el propósito de ellas no es explicar los c
 
 En cada documento he subido las fuentes de lectura en caso de que deseen ver ejemplos y más detalles sobre los temas.
 
+### Nota:
+Las referencias a código que puedan estar en los archivos son sobre C#.
+
 :)
