@@ -1,4 +1,4 @@
-# learning
+# Mejora continua como desarrollador de software
 ## Ingeniería de Software
 
 Después de 10 años de involucrarme en el desarrollo de software me encuentro realizando un repaso y profundización en temas de ingeniería de software. Estas son las notas que he tomado después de la lecturas de diversas fuentes.
