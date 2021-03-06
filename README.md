@@ -11,7 +11,8 @@ Las referencias a código, palabras reservadas, etc. que puedan estar en los arc
 
 ## Temario
 1. [POO - Programación Orientada a Objetos](https://github.com/luzyrawr/learning/blob/master/POO%20-%20Programaci%C3%B3n%20Orientada%20a%20Objetos.pdf)
-1. [Principios de SOLID](https://github.com/luzyrawr/learning/blob/master/Principios%20de%20SOLID.pdf)
+2. [Principios de SOLID](https://github.com/luzyrawr/learning/blob/master/Principios%20de%20SOLID.pdf)
+3. Clean Architecture ... proximamente
 
 ~
 
