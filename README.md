@@ -18,9 +18,6 @@ Las referencias a código, palabras reservadas, etc. que puedan estar en los arc
 | Repository Pattern - Patrón Repositorio | Estructurando el repositorio de un proyecto con Clean Architecture |
 | Specification Pattern | Estructurando el repositorio de un proyecto con Clean Architecture |
 | Software Architecture | Cuales son las responsabilidades y alcances de la Arquitectura de Software |
-| Unit Testing | |
-| Mocking | |
-| TDD - Test-Driven Devolopment | |
 | DDD - Domain-Driven Design | |
 
 ~
