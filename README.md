@@ -14,6 +14,11 @@ Las referencias a código, palabras reservadas, etc. que puedan estar en los arc
 2. [Principios de SOLID](https://github.com/luzyrawr/learning/blob/master/Principios%20de%20SOLID.pdf)
 3. Clean Architecture - Arquitectura Limpia
 4. Software Architecture
+5. DDD - Domain-Driven Design
+6. Unit Testing
+7. Mocking
+8. TDD - Test-Driven Devolopment
+
 
 ~
 
