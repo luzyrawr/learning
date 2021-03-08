@@ -2,7 +2,7 @@
 
 Después de varios años desarrollando software me encuentro realizando un repaso y profundización en temas de ingeniería de software. Estas son las notas que he tomado después de la lecturas de diversas fuentes. 
 
-Decidí compartir las notas para aquellos que se encuentren en una situación similar: desarrolladores con muchos años de práctica y con la búsqueda de la mejora de la calidad de su software. También podría servir como una guía sobre que conceptos dominar primero antes de aventurarse en otros. Conforme vaya avanzando iré agregando nuevos temas.
+Decidí compartir las notas para aquellos que se encuentren en una situación similar: desarrolladores con muchos varios de práctica y con la búsqueda de la mejora de la calidad de su software. También podría servir como una guía sobre que conceptos dominar primero antes de aventurarse en otros. Conforme vaya avanzando iré agregando nuevos temas.
 
 En cada documento he subido las fuentes de lectura en caso de que deseen ver ejemplos y más detalles sobre los temas.
 
